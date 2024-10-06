@@ -1,1 +1,2 @@
-# mining-lockfiles
+# lockfile miner
+

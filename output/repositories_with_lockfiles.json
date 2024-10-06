@@ -1,0 +1,170 @@
+{
+  "PyO3/pyo3-async-runtimes" : {
+    "url" : "https://api.github.com/repos/PyO3/pyo3-async-runtimes",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "strivedi4u/hacktoberfest2024" : {
+    "url" : "https://api.github.com/repos/strivedi4u/hacktoberfest2024",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Ajiet-DevNation/DevNation-CMS" : {
+    "url" : "https://api.github.com/repos/Ajiet-DevNation/DevNation-CMS",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "intergalacticalvariable/reader" : {
+    "url" : "https://api.github.com/repos/intergalacticalvariable/reader",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "DeeCeeXxx/Queen_Anita-V3" : {
+    "url" : "https://api.github.com/repos/DeeCeeXxx/Queen_Anita-V3",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "iamAyushChamoli/hacktoberfest-24" : {
+    "url" : "https://api.github.com/repos/iamAyushChamoli/hacktoberfest-24",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "zero-to-mastery/ZTM-Quest" : {
+    "url" : "https://api.github.com/repos/zero-to-mastery/ZTM-Quest",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "cslant/laravel-like" : {
+    "url" : "https://api.github.com/repos/cslant/laravel-like",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "apache/avro-rs" : {
+    "url" : "https://api.github.com/repos/apache/avro-rs",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Diomar-s/Kakaroto-Bot-MD" : {
+    "url" : "https://api.github.com/repos/Diomar-s/Kakaroto-Bot-MD",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "piratarialink/megathread_pirata" : {
+    "url" : "https://api.github.com/repos/piratarialink/megathread_pirata",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Bashamega/TrendTrack" : {
+    "url" : "https://api.github.com/repos/Bashamega/TrendTrack",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "penumbra-x/rqeust" : {
+    "url" : "https://api.github.com/repos/penumbra-x/rqeust",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "gumroad/shortest" : {
+    "url" : "https://api.github.com/repos/gumroad/shortest",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "times-yasunori/awesome-yasunori" : {
+    "url" : "https://api.github.com/repos/times-yasunori/awesome-yasunori",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "livewire/flux" : {
+    "url" : "https://api.github.com/repos/livewire/flux",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "ubugeeei/reading-vuejs-core-vapor" : {
+    "url" : "https://api.github.com/repos/ubugeeei/reading-vuejs-core-vapor",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "GarimaSingh0109/Resum-Resume" : {
+    "url" : "https://api.github.com/repos/GarimaSingh0109/Resum-Resume",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Bottelet/translation-checker" : {
+    "url" : "https://api.github.com/repos/Bottelet/translation-checker",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : true
+  },
+  "common-intellisense/common-intellisense" : {
+    "url" : "https://api.github.com/repos/common-intellisense/common-intellisense",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "unisat-wallet/fractal-ordinals-collections" : {
+    "url" : "https://api.github.com/repos/unisat-wallet/fractal-ordinals-collections",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "codeaashu/DevDisplay" : {
+    "url" : "https://api.github.com/repos/codeaashu/DevDisplay",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "opennextjs/opennextjs-cloudflare" : {
+    "url" : "https://api.github.com/repos/opennextjs/opennextjs-cloudflare",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Timshel/OIDCWarden" : {
+    "url" : "https://api.github.com/repos/Timshel/OIDCWarden",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "setchy/atlassify" : {
+    "url" : "https://api.github.com/repos/setchy/atlassify",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "illionillion/oss-blog" : {
+    "url" : "https://api.github.com/repos/illionillion/oss-blog",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "LINBIT/linstor-gui" : {
+    "url" : "https://api.github.com/repos/LINBIT/linstor-gui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "ruvnet/aihl" : {
+    "url" : "https://api.github.com/repos/ruvnet/aihl",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  }
+}
