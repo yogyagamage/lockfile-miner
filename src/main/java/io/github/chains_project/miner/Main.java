@@ -97,7 +97,7 @@ public class Main {
                 names = {"-r", "--repos"},
                 paramLabel = "REPO-FILE",
                 description = "A JSON file containing previously found repositories. If used, this file will be updated," +
-                        "otherwise a new file called found_repositories.json will be created in the output directory."
+                        "otherwise a new file called repositories_with_lockfiles.json will be created in the output directory."
         )
         Path repoFile;
         @CommandLine.Option(

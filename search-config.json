@@ -1,6 +1,6 @@
 {
-  "minNumberOfStars": 10,
+  "minNumberOfStars": 30,
   "earliestCreationDate": "2009-01-01T00:00:00Z",
-  "minNumberOfCommits": 100,
-  "minNumberOfContributors": 3
+  "minNumberOfCommits": 500,
+  "minNumberOfContributors": 5
 }
