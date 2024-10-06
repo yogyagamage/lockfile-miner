@@ -251,6 +251,7 @@ public class GitHubMiner {
                 long timeToSleep = rateLimitRecord.getResetDate().getTime() - System.currentTimeMillis();
                 System.out.printf("Rate limit exceeded for token %s, sleeping %ds until %s\n",
                         apiToken, timeToSleep / 1000, rateLimitRecord.getResetDate());
+                System.exit(1);
                 Thread.sleep(timeToSleep);
                 return true;
             }
