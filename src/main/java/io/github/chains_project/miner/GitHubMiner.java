@@ -92,7 +92,8 @@ public class GitHubMiner {
                             try {
                                 CompletableFuture<ProjectInfo> projectCheck = CompletableFuture.supplyAsync(() -> {
                                     if (RepositoryFilters.hasSufficientNumberOfCommits(repository, searchConfig.minNumberOfCommits) &&
-                                            RepositoryFilters.hasSufficientNumberOfContributors(repository, searchConfig.minNumberOfContributors)) {
+                                            RepositoryFilters.hasSufficientNumberOfContributors(repository, searchConfig.minNumberOfContributors) &&
+                                            RepositoryFilters.isLastCommitWithinThreeMonths(repository)) {
                                         return RepositoryFilters.identifyProjectTypeAndLockfile(repository);
                                     }
                                     return null;

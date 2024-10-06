@@ -1,5 +1,6 @@
 package io.github.chains_project.miner;
 
+import org.kohsuke.github.GHCommit;
 import org.kohsuke.github.GHEvent;
 import org.kohsuke.github.GHRepository;
 import org.kohsuke.github.GHTreeEntry;
@@ -7,6 +8,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
+import java.time.LocalDate;
+import java.time.ZoneId;
+import java.time.temporal.ChronoUnit;
 import java.util.List;
 import java.util.function.Predicate;
 
@@ -145,6 +149,21 @@ public class RepositoryFilters {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+    }
+
+    public static boolean isLastCommitWithinThreeMonths(GHRepository repository) {
+        try {
+            List<GHCommit> commits = repository.listCommits().toList();
+            if (!commits.isEmpty()) {
+                LocalDate lastCommitDate = commits.get(0).getCommitDate().toInstant()
+                        .atZone(ZoneId.systemDefault()).toLocalDate();
+                LocalDate threeMonthsAgo = LocalDate.now().minus(3, ChronoUnit.MONTHS);
+                return lastCommitDate.isAfter(threeMonthsAgo);
+            }
+        } catch (IOException e) {
+            log.error("Error retrieving commits for repository: " + repository.getFullName(), e);
+        }
+        return false;
     }
 
     /**
