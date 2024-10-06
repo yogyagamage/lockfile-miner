@@ -18,9 +18,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Date;
 import java.util.List;
-import java.util.concurrent.ExecutionException;
-import java.util.concurrent.ForkJoinPool;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 /**
  * The GitHubMiner class allows for the mining of GitHub repositories with and without lockfiles.
@@ -79,31 +77,35 @@ public class GitHubMiner {
     public void findRepositories(RepositoryList repoList, RepositorySearchConfig searchConfig, Date lastDate) throws IOException {
         log.info("Finding valid repositories");
         int previousSize = repoList.size();
-
-        // Start at the lastDate, or default to the current date if null
         LocalDate creationDate = lastDate != null ? lastDate.toInstant().atZone(ZoneId.systemDefault()).toLocalDate() : LocalDate.now(ZoneId.systemDefault());
         PagedSearchIterable<GHRepository> search = searchForRepos(searchConfig.minNumberOfStars, creationDate);
-
         LocalDate earliestCreationDate =
                 searchConfig.earliestCreationDate.toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
-
         while (creationDate.isAfter(earliestCreationDate)) {
             log.info("Checking repos created on {} ", creationDate);
             PagedIterator<GHRepository> iterator = search.iterator();
-
             while (iterator.hasNext()) {
                 iterator.nextPage().stream()
                         .filter(repository -> !repoList.contains(repository))
                         .peek(repository -> log.info("  Checking " + repository.getFullName()))
-                        .filter(repository -> RepositoryFilters.hasSufficientNumberOfCommits(repository,
-                                searchConfig.minNumberOfCommits))
-                        .filter(repository -> RepositoryFilters.hasSufficientNumberOfContributors(repository,
-                                searchConfig.minNumberOfContributors))
-                        .map(RepositoryFilters::identifyProjectTypeAndLockfile)
-                        .forEach(projectInfo -> {
-                            if (projectInfo != null) {
-                                repoList.add(projectInfo);
-                                log.info("  Found " + projectInfo.repository().getUrl());
+                        .forEach(repository -> {
+                            try {
+                                CompletableFuture<ProjectInfo> projectCheck = CompletableFuture.supplyAsync(() -> {
+                                    if (RepositoryFilters.hasSufficientNumberOfCommits(repository, searchConfig.minNumberOfCommits) &&
+                                            RepositoryFilters.hasSufficientNumberOfContributors(repository, searchConfig.minNumberOfContributors)) {
+                                        return RepositoryFilters.identifyProjectTypeAndLockfile(repository);
+                                    }
+                                    return null;
+                                });
+                                ProjectInfo projectInfo = projectCheck.get(30, TimeUnit.SECONDS);
+                                if (projectInfo != null) {
+                                    repoList.add(projectInfo);
+                                    log.info("  Found " + projectInfo.repository().getUrl());
+                                }
+                            } catch (TimeoutException e) {
+                                log.warn("  Skipping repository {} due to timeout", repository.getFullName());
+                            } catch (InterruptedException | ExecutionException e) {
+                                log.error("  Error while checking repository " + repository.getFullName(), e);
                             }
                         });
             }

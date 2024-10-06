@@ -166,5 +166,41 @@
     "lastCheckedAt" : null,
     "projectType" : "NPM",
     "lockfileExists" : true
+  },
+  "voideditor/void" : {
+    "url" : "https://api.github.com/repos/voideditor/void",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "6Kmfi6HP/EDtunnel" : {
+    "url" : "https://api.github.com/repos/6Kmfi6HP/EDtunnel",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "LOBO50K/THE-QUINTUPLETS-" : {
+    "url" : "https://api.github.com/repos/LOBO50K/THE-QUINTUPLETS-",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "super-turbo-stack/create-super-turbo" : {
+    "url" : "https://api.github.com/repos/super-turbo-stack/create-super-turbo",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "briefercloud/briefer" : {
+    "url" : "https://api.github.com/repos/briefercloud/briefer",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "Hexastack/Hexabot" : {
+    "url" : "https://api.github.com/repos/Hexastack/Hexabot",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
   }
 }
