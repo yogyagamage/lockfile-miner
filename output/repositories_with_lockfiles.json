@@ -6610,5 +6610,2069 @@
     "lastCheckedAt" : null,
     "projectType" : "NPM",
     "lockfileExists" : true
+  },
+  "bepass-org/oblivion-desktop" : {
+    "url" : "https://api.github.com/repos/bepass-org/oblivion-desktop",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "timpaul/form-extractor-prototype" : {
+    "url" : "https://api.github.com/repos/timpaul/form-extractor-prototype",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Suchitra-Sahoo/AgriLearnNetwork" : {
+    "url" : "https://api.github.com/repos/Suchitra-Sahoo/AgriLearnNetwork",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "rocketseat-education/course-saas-next-rbac" : {
+    "url" : "https://api.github.com/repos/rocketseat-education/course-saas-next-rbac",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "coauthors/coauthors" : {
+    "url" : "https://api.github.com/repos/coauthors/coauthors",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "kauefraga/ruke" : {
+    "url" : "https://api.github.com/repos/kauefraga/ruke",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "bernester/a11y-toolkit" : {
+    "url" : "https://api.github.com/repos/bernester/a11y-toolkit",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "bnb-chain/revm" : {
+    "url" : "https://api.github.com/repos/bnb-chain/revm",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "jina-ai/reader" : {
+    "url" : "https://api.github.com/repos/jina-ai/reader",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "TrafficGuard/sophia" : {
+    "url" : "https://api.github.com/repos/TrafficGuard/sophia",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "PasteBar/PasteBarApp" : {
+    "url" : "https://api.github.com/repos/PasteBar/PasteBarApp",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "lobehub/lobe-vidol" : {
+    "url" : "https://api.github.com/repos/lobehub/lobe-vidol",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Bitcoin-Wildlife-Sanctuary/bitcoin-circle-stark" : {
+    "url" : "https://api.github.com/repos/Bitcoin-Wildlife-Sanctuary/bitcoin-circle-stark",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "continuedev/amplified.dev" : {
+    "url" : "https://api.github.com/repos/continuedev/amplified.dev",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "IncredibleDevHQ/Incredible.dev" : {
+    "url" : "https://api.github.com/repos/IncredibleDevHQ/Incredible.dev",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "YOCOING/YOCO" : {
+    "url" : "https://api.github.com/repos/YOCOING/YOCO",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "mohsen1/pretty-json" : {
+    "url" : "https://api.github.com/repos/mohsen1/pretty-json",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "yetanotherco/zkRust" : {
+    "url" : "https://api.github.com/repos/yetanotherco/zkRust",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "DataDog/saluki" : {
+    "url" : "https://api.github.com/repos/DataDog/saluki",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "ItzCrazyKns/Perplexica" : {
+    "url" : "https://api.github.com/repos/ItzCrazyKns/Perplexica",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "damianricobelli/stepperize" : {
+    "url" : "https://api.github.com/repos/damianricobelli/stepperize",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Admiral-Billy/Pokerogue-App" : {
+    "url" : "https://api.github.com/repos/Admiral-Billy/Pokerogue-App",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "aj3423/SpamBlocker" : {
+    "url" : "https://api.github.com/repos/aj3423/SpamBlocker",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "pulsecron/pulse" : {
+    "url" : "https://api.github.com/repos/pulsecron/pulse",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "NaverPayDev/pie" : {
+    "url" : "https://api.github.com/repos/NaverPayDev/pie",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "coinbase/coinbase-sdk-ruby" : {
+    "url" : "https://api.github.com/repos/coinbase/coinbase-sdk-ruby",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "hackclub/hack-hour" : {
+    "url" : "https://api.github.com/repos/hackclub/hack-hour",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "wntrtech/lx-ui" : {
+    "url" : "https://api.github.com/repos/wntrtech/lx-ui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Eterocell/MihomoForAndroid" : {
+    "url" : "https://api.github.com/repos/Eterocell/MihomoForAndroid",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "Software-Developer-Academy/mentor-match" : {
+    "url" : "https://api.github.com/repos/Software-Developer-Academy/mentor-match",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "ParclLabs/parcllabs-python" : {
+    "url" : "https://api.github.com/repos/ParclLabs/parcllabs-python",
+    "lastCheckedAt" : null,
+    "projectType" : "PIP",
+    "lockfileExists" : false
+  },
+  "read-cat/read-cat" : {
+    "url" : "https://api.github.com/repos/read-cat/read-cat",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "wllfaria/hac" : {
+    "url" : "https://api.github.com/repos/wllfaria/hac",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "manulthanura/Positivus" : {
+    "url" : "https://api.github.com/repos/manulthanura/Positivus",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "subhadeeproy3902/BloxAI" : {
+    "url" : "https://api.github.com/repos/subhadeeproy3902/BloxAI",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "ufocoder/fps" : {
+    "url" : "https://api.github.com/repos/ufocoder/fps",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "butaneprotocol/blaze-cardano" : {
+    "url" : "https://api.github.com/repos/butaneprotocol/blaze-cardano",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "aave-dao/aave-v3-origin" : {
+    "url" : "https://api.github.com/repos/aave-dao/aave-v3-origin",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "biomejs/website" : {
+    "url" : "https://api.github.com/repos/biomejs/website",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "oxidrive/oxidrive" : {
+    "url" : "https://api.github.com/repos/oxidrive/oxidrive",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "newhinton/disky" : {
+    "url" : "https://api.github.com/repos/newhinton/disky",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "C4illin/ConvertX" : {
+    "url" : "https://api.github.com/repos/C4illin/ConvertX",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Thavarshan/filterable" : {
+    "url" : "https://api.github.com/repos/Thavarshan/filterable",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : true
+  },
+  "vyfor/cord.nvim" : {
+    "url" : "https://api.github.com/repos/vyfor/cord.nvim",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "forzzzzz/Calculator-You" : {
+    "url" : "https://api.github.com/repos/forzzzzz/Calculator-You",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "ymrl/a11y-visualizer" : {
+    "url" : "https://api.github.com/repos/ymrl/a11y-visualizer",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "siper/Youamp" : {
+    "url" : "https://api.github.com/repos/siper/Youamp",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "knulli-cfw/knulli.org" : {
+    "url" : "https://api.github.com/repos/knulli-cfw/knulli.org",
+    "lastCheckedAt" : null,
+    "projectType" : "PIP",
+    "lockfileExists" : false
+  },
+  "pierr3/TrackAudio" : {
+    "url" : "https://api.github.com/repos/pierr3/TrackAudio",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "flixclusiveorg/flx-providers" : {
+    "url" : "https://api.github.com/repos/flixclusiveorg/flx-providers",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "nostrocket/humble.horse" : {
+    "url" : "https://api.github.com/repos/nostrocket/humble.horse",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "FinalForEach/Cosmic-Reach-Localization" : {
+    "url" : "https://api.github.com/repos/FinalForEach/Cosmic-Reach-Localization",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "yjs/yjs-inspector" : {
+    "url" : "https://api.github.com/repos/yjs/yjs-inspector",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Madmkisii/Megatron-Bot" : {
+    "url" : "https://api.github.com/repos/Madmkisii/Megatron-Bot",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "miurla/morphic" : {
+    "url" : "https://api.github.com/repos/miurla/morphic",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "ssoready/ssoready" : {
+    "url" : "https://api.github.com/repos/ssoready/ssoready",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "latentcat/latentbox" : {
+    "url" : "https://api.github.com/repos/latentcat/latentbox",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "andyk/ht" : {
+    "url" : "https://api.github.com/repos/andyk/ht",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "risechain/pevm" : {
+    "url" : "https://api.github.com/repos/risechain/pevm",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "hansetag/iceberg-catalog" : {
+    "url" : "https://api.github.com/repos/hansetag/iceberg-catalog",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "integration-os/integrationos" : {
+    "url" : "https://api.github.com/repos/integration-os/integrationos",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "TheDahoom/Sveltekit-seo" : {
+    "url" : "https://api.github.com/repos/TheDahoom/Sveltekit-seo",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "tempestphp/tempest-console" : {
+    "url" : "https://api.github.com/repos/tempestphp/tempest-console",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "alloy-rs/op-alloy" : {
+    "url" : "https://api.github.com/repos/alloy-rs/op-alloy",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "alumet-dev/alumet" : {
+    "url" : "https://api.github.com/repos/alumet-dev/alumet",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "ThatOpen/engine_ui-components" : {
+    "url" : "https://api.github.com/repos/ThatOpen/engine_ui-components",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "matthias-bs/BresserWeatherSensorLW" : {
+    "url" : "https://api.github.com/repos/matthias-bs/BresserWeatherSensorLW",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "necordjs/localization" : {
+    "url" : "https://api.github.com/repos/necordjs/localization",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "pablof7z/highlighter" : {
+    "url" : "https://api.github.com/repos/pablof7z/highlighter",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "microsoft/ado-npm-auth" : {
+    "url" : "https://api.github.com/repos/microsoft/ado-npm-auth",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "vinceglb/FileKit" : {
+    "url" : "https://api.github.com/repos/vinceglb/FileKit",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "soutaro/rbs-inline" : {
+    "url" : "https://api.github.com/repos/soutaro/rbs-inline",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "zhaohappy/libmedia" : {
+    "url" : "https://api.github.com/repos/zhaohappy/libmedia",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "radumarias/rencfs" : {
+    "url" : "https://api.github.com/repos/radumarias/rencfs",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Priyaaa1/StartConnect-Hub" : {
+    "url" : "https://api.github.com/repos/Priyaaa1/StartConnect-Hub",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "sotopia-lab/awesome-social-agents" : {
+    "url" : "https://api.github.com/repos/sotopia-lab/awesome-social-agents",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "rust-lang/rust-project-goals" : {
+    "url" : "https://api.github.com/repos/rust-lang/rust-project-goals",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "aws-samples/generative-ai-newsletter-app" : {
+    "url" : "https://api.github.com/repos/aws-samples/generative-ai-newsletter-app",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Gurupatil0003/gurupatil0003.github.io" : {
+    "url" : "https://api.github.com/repos/Gurupatil0003/gurupatil0003.github.io",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "bluewind-ai/bluewind" : {
+    "url" : "https://api.github.com/repos/bluewind-ai/bluewind",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "aidenwong812/chicken-game" : {
+    "url" : "https://api.github.com/repos/aidenwong812/chicken-game",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "UMEssen/DICOM-RST" : {
+    "url" : "https://api.github.com/repos/UMEssen/DICOM-RST",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "zaona/tinder-archives-center" : {
+    "url" : "https://api.github.com/repos/zaona/tinder-archives-center",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "besscroft/PicImpact" : {
+    "url" : "https://api.github.com/repos/besscroft/PicImpact",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "git-goods/gitanimals" : {
+    "url" : "https://api.github.com/repos/git-goods/gitanimals",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "jaaronkot/picprose" : {
+    "url" : "https://api.github.com/repos/jaaronkot/picprose",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "bragefuglseth/keypunch" : {
+    "url" : "https://api.github.com/repos/bragefuglseth/keypunch",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "LlamaEdge/rag-api-server" : {
+    "url" : "https://api.github.com/repos/LlamaEdge/rag-api-server",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "juicebox-systems/juicebox-sdk" : {
+    "url" : "https://api.github.com/repos/juicebox-systems/juicebox-sdk",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "plainsheet/plainsheet" : {
+    "url" : "https://api.github.com/repos/plainsheet/plainsheet",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "kalrnlo/luauberries" : {
+    "url" : "https://api.github.com/repos/kalrnlo/luauberries",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "freeCodeCamp/ui" : {
+    "url" : "https://api.github.com/repos/freeCodeCamp/ui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Infomaniak/android-rich-html-editor" : {
+    "url" : "https://api.github.com/repos/Infomaniak/android-rich-html-editor",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "juicebox-systems/juicebox-hsm-realm" : {
+    "url" : "https://api.github.com/repos/juicebox-systems/juicebox-hsm-realm",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "elastic/crawler" : {
+    "url" : "https://api.github.com/repos/elastic/crawler",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "smx-smx/xzre" : {
+    "url" : "https://api.github.com/repos/smx-smx/xzre",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : true
+  },
+  "saphyr-rs/saphyr" : {
+    "url" : "https://api.github.com/repos/saphyr-rs/saphyr",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "gandalf-network/whoami" : {
+    "url" : "https://api.github.com/repos/gandalf-network/whoami",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "starlake-ai/jsqltranspiler" : {
+    "url" : "https://api.github.com/repos/starlake-ai/jsqltranspiler",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "intel/tbtools" : {
+    "url" : "https://api.github.com/repos/intel/tbtools",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "ServerlessLife/lambda-live-debugger" : {
+    "url" : "https://api.github.com/repos/ServerlessLife/lambda-live-debugger",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "netlify-templates/astro-platform-starter" : {
+    "url" : "https://api.github.com/repos/netlify-templates/astro-platform-starter",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "strkfarm/starkfarm-client" : {
+    "url" : "https://api.github.com/repos/strkfarm/starkfarm-client",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "saphyr-rs/saphyr-parser" : {
+    "url" : "https://api.github.com/repos/saphyr-rs/saphyr-parser",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "Consensys/linea-sequencer" : {
+    "url" : "https://api.github.com/repos/Consensys/linea-sequencer",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "seamapi/python" : {
+    "url" : "https://api.github.com/repos/seamapi/python",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "thebuildcraft/RemotePlayerWaypointsForXaero" : {
+    "url" : "https://api.github.com/repos/thebuildcraft/RemotePlayerWaypointsForXaero",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "PaulBayfield/Better-IUT-RCC" : {
+    "url" : "https://api.github.com/repos/PaulBayfield/Better-IUT-RCC",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "sandshrewmetaprotocols/metashrew-runes" : {
+    "url" : "https://api.github.com/repos/sandshrewmetaprotocols/metashrew-runes",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "GuavaCZ/filament-knowledge-base" : {
+    "url" : "https://api.github.com/repos/GuavaCZ/filament-knowledge-base",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "mym0404/react-native-naver-map" : {
+    "url" : "https://api.github.com/repos/mym0404/react-native-naver-map",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "livekit/agents-js" : {
+    "url" : "https://api.github.com/repos/livekit/agents-js",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "bound-mod/bound" : {
+    "url" : "https://api.github.com/repos/bound-mod/bound",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "NamesMT/starter-fullstack" : {
+    "url" : "https://api.github.com/repos/NamesMT/starter-fullstack",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "adityakotha03/F1nsight" : {
+    "url" : "https://api.github.com/repos/adityakotha03/F1nsight",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "StarlightSearch/EmbedAnything" : {
+    "url" : "https://api.github.com/repos/StarlightSearch/EmbedAnything",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "baizeteam/baize-toolbox" : {
+    "url" : "https://api.github.com/repos/baizeteam/baize-toolbox",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "valkey-io/iovalkey" : {
+    "url" : "https://api.github.com/repos/valkey-io/iovalkey",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Bonk-Corporation/ft_transcendence" : {
+    "url" : "https://api.github.com/repos/Bonk-Corporation/ft_transcendence",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "daimo-eth/ethreceipts" : {
+    "url" : "https://api.github.com/repos/daimo-eth/ethreceipts",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Maxlego08/zEssentials" : {
+    "url" : "https://api.github.com/repos/Maxlego08/zEssentials",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "tenoxui/tenoxui" : {
+    "url" : "https://api.github.com/repos/tenoxui/tenoxui",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "saemirii/checkmate.github.io" : {
+    "url" : "https://api.github.com/repos/saemirii/checkmate.github.io",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Scale3-Labs/langtrace" : {
+    "url" : "https://api.github.com/repos/Scale3-Labs/langtrace",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "sabledb-io/sabledb" : {
+    "url" : "https://api.github.com/repos/sabledb-io/sabledb",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "ijpatricio/mingle" : {
+    "url" : "https://api.github.com/repos/ijpatricio/mingle",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "usha-madithati/esmart.github.io" : {
+    "url" : "https://api.github.com/repos/usha-madithati/esmart.github.io",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "mc-wiki/minecraft-mod-heywiki" : {
+    "url" : "https://api.github.com/repos/mc-wiki/minecraft-mod-heywiki",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "Hacksore/gitpilled" : {
+    "url" : "https://api.github.com/repos/Hacksore/gitpilled",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "nyanrus/noraneko" : {
+    "url" : "https://api.github.com/repos/nyanrus/noraneko",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "bue221/astro-portfolio" : {
+    "url" : "https://api.github.com/repos/bue221/astro-portfolio",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "FTCHD/frametrain" : {
+    "url" : "https://api.github.com/repos/FTCHD/frametrain",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Ciensprog/Aerial-Launcher" : {
+    "url" : "https://api.github.com/repos/Ciensprog/Aerial-Launcher",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Rajdip019/flexauth" : {
+    "url" : "https://api.github.com/repos/Rajdip019/flexauth",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "elsirion/fedimint-observer" : {
+    "url" : "https://api.github.com/repos/elsirion/fedimint-observer",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "nestriness/nestri" : {
+    "url" : "https://api.github.com/repos/nestriness/nestri",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "toss/es-hangul" : {
+    "url" : "https://api.github.com/repos/toss/es-hangul",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "eslint/config-inspector" : {
+    "url" : "https://api.github.com/repos/eslint/config-inspector",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "tqwewe/kameo" : {
+    "url" : "https://api.github.com/repos/tqwewe/kameo",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "davidtakac/bura" : {
+    "url" : "https://api.github.com/repos/davidtakac/bura",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "Lakshan-Madushanka/laravel-comments" : {
+    "url" : "https://api.github.com/repos/Lakshan-Madushanka/laravel-comments",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "zombieyang/sd-ppp" : {
+    "url" : "https://api.github.com/repos/zombieyang/sd-ppp",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "apache/spark-kubernetes-operator" : {
+    "url" : "https://api.github.com/repos/apache/spark-kubernetes-operator",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "wakatime/desktop-wakatime" : {
+    "url" : "https://api.github.com/repos/wakatime/desktop-wakatime",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "monarchwadia/ragged" : {
+    "url" : "https://api.github.com/repos/monarchwadia/ragged",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "rrd108/nuxt-api-shield" : {
+    "url" : "https://api.github.com/repos/rrd108/nuxt-api-shield",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "Harshit-RV/chatblock" : {
+    "url" : "https://api.github.com/repos/Harshit-RV/chatblock",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "BouyguesTelecom/trilogy" : {
+    "url" : "https://api.github.com/repos/BouyguesTelecom/trilogy",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "zen-browser/desktop" : {
+    "url" : "https://api.github.com/repos/zen-browser/desktop",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Lauriethefish/ModsBeforeFriday" : {
+    "url" : "https://api.github.com/repos/Lauriethefish/ModsBeforeFriday",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Lruihao/CoverView" : {
+    "url" : "https://api.github.com/repos/Lruihao/CoverView",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Mansi168/EmoWell" : {
+    "url" : "https://api.github.com/repos/Mansi168/EmoWell",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "jwplayer/jwplayer-react-native" : {
+    "url" : "https://api.github.com/repos/jwplayer/jwplayer-react-native",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "coti-io/confidentiality-contracts" : {
+    "url" : "https://api.github.com/repos/coti-io/confidentiality-contracts",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "AbhiPatel10/openzone" : {
+    "url" : "https://api.github.com/repos/AbhiPatel10/openzone",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "olasunkanmi-SE/codebuddy" : {
+    "url" : "https://api.github.com/repos/olasunkanmi-SE/codebuddy",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "storybookjs/storybook-rsc-demo" : {
+    "url" : "https://api.github.com/repos/storybookjs/storybook-rsc-demo",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "MarkSackerberg/cmc-ui-inofficial" : {
+    "url" : "https://api.github.com/repos/MarkSackerberg/cmc-ui-inofficial",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "gcui-art/suno-api" : {
+    "url" : "https://api.github.com/repos/gcui-art/suno-api",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "ComposeGears/Valkyrie" : {
+    "url" : "https://api.github.com/repos/ComposeGears/Valkyrie",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "colorstackorg/oyster" : {
+    "url" : "https://api.github.com/repos/colorstackorg/oyster",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "Julien-R44/hot-hook" : {
+    "url" : "https://api.github.com/repos/Julien-R44/hot-hook",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Afordin/hackafor-2" : {
+    "url" : "https://api.github.com/repos/Afordin/hackafor-2",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "zeozeozeo/ellama" : {
+    "url" : "https://api.github.com/repos/zeozeozeo/ellama",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "flowerforce/flower" : {
+    "url" : "https://api.github.com/repos/flowerforce/flower",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "vexide/vexide" : {
+    "url" : "https://api.github.com/repos/vexide/vexide",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "ubinfie/ubinfie.github.io" : {
+    "url" : "https://api.github.com/repos/ubinfie/ubinfie.github.io",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "Ton-Dynasty/ThunderFinance" : {
+    "url" : "https://api.github.com/repos/Ton-Dynasty/ThunderFinance",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "HowieHz/halo-theme-higan-hz" : {
+    "url" : "https://api.github.com/repos/HowieHz/halo-theme-higan-hz",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "harshit1142/e-commerce" : {
+    "url" : "https://api.github.com/repos/harshit1142/e-commerce",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "stargate-protocol/stargate-v2" : {
+    "url" : "https://api.github.com/repos/stargate-protocol/stargate-v2",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "satisfyu/FarmAndCharm" : {
+    "url" : "https://api.github.com/repos/satisfyu/FarmAndCharm",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "slatedb/slatedb" : {
+    "url" : "https://api.github.com/repos/slatedb/slatedb",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "bitwarden/authenticator-android" : {
+    "url" : "https://api.github.com/repos/bitwarden/authenticator-android",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "grafana/explore-logs" : {
+    "url" : "https://api.github.com/repos/grafana/explore-logs",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "Kesomannen/gale" : {
+    "url" : "https://api.github.com/repos/Kesomannen/gale",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "AnaRangel/anarangel.github.io" : {
+    "url" : "https://api.github.com/repos/AnaRangel/anarangel.github.io",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "samchon/openapi" : {
+    "url" : "https://api.github.com/repos/samchon/openapi",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "EchoTechFE/dangoui" : {
+    "url" : "https://api.github.com/repos/EchoTechFE/dangoui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "gmlarumbe/tree-sitter-systemverilog" : {
+    "url" : "https://api.github.com/repos/gmlarumbe/tree-sitter-systemverilog",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "sabzco/kubit-docs" : {
+    "url" : "https://api.github.com/repos/sabzco/kubit-docs",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "cloudflare/orange" : {
+    "url" : "https://api.github.com/repos/cloudflare/orange",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "stacks-network/sbtc" : {
+    "url" : "https://api.github.com/repos/stacks-network/sbtc",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "routerso/router" : {
+    "url" : "https://api.github.com/repos/routerso/router",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "LlmLaraHub/larallama" : {
+    "url" : "https://api.github.com/repos/LlmLaraHub/larallama",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "phenaproxima/starshot-prototype" : {
+    "url" : "https://api.github.com/repos/phenaproxima/starshot-prototype",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "TBS1996/TaleCast" : {
+    "url" : "https://api.github.com/repos/TBS1996/TaleCast",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "rairprotocol/RAIRsite" : {
+    "url" : "https://api.github.com/repos/rairprotocol/RAIRsite",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Hyle-org/hyle" : {
+    "url" : "https://api.github.com/repos/Hyle-org/hyle",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "wojciech-graj/bin-proto" : {
+    "url" : "https://api.github.com/repos/wojciech-graj/bin-proto",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "OpenBotDev/oldbot" : {
+    "url" : "https://api.github.com/repos/OpenBotDev/oldbot",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "Freika/dawarich" : {
+    "url" : "https://api.github.com/repos/Freika/dawarich",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "d-ivashchuk/cascade" : {
+    "url" : "https://api.github.com/repos/d-ivashchuk/cascade",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "rocketclimb/rocketicons" : {
+    "url" : "https://api.github.com/repos/rocketclimb/rocketicons",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "guoyixing/chronos" : {
+    "url" : "https://api.github.com/repos/guoyixing/chronos",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "felipeangelimvieira/prophetverse" : {
+    "url" : "https://api.github.com/repos/felipeangelimvieira/prophetverse",
+    "lastCheckedAt" : null,
+    "projectType" : "PIP",
+    "lockfileExists" : false
+  },
+  "sametcn99/electron-widgets" : {
+    "url" : "https://api.github.com/repos/sametcn99/electron-widgets",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "nilsherzig/LLocalSearch" : {
+    "url" : "https://api.github.com/repos/nilsherzig/LLocalSearch",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "lodev09/react-native-true-sheet" : {
+    "url" : "https://api.github.com/repos/lodev09/react-native-true-sheet",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "postyizhan/NitWikit" : {
+    "url" : "https://api.github.com/repos/postyizhan/NitWikit",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Byte-Labs-Studio/bl_appearance" : {
+    "url" : "https://api.github.com/repos/Byte-Labs-Studio/bl_appearance",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "NWYLZW/shikitor" : {
+    "url" : "https://api.github.com/repos/NWYLZW/shikitor",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "charklie/rsftch" : {
+    "url" : "https://api.github.com/repos/charklie/rsftch",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "pelican-dev/docs" : {
+    "url" : "https://api.github.com/repos/pelican-dev/docs",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "db-keli/kelvin" : {
+    "url" : "https://api.github.com/repos/db-keli/kelvin",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "ToposInstitute/CatColab" : {
+    "url" : "https://api.github.com/repos/ToposInstitute/CatColab",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "epicweb-dev/react-server-components" : {
+    "url" : "https://api.github.com/repos/epicweb-dev/react-server-components",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "danirod/cartero" : {
+    "url" : "https://api.github.com/repos/danirod/cartero",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "oliver225/thingsboard-ui-vue3" : {
+    "url" : "https://api.github.com/repos/oliver225/thingsboard-ui-vue3",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "MengNianxiaoyao/gkd-subscription" : {
+    "url" : "https://api.github.com/repos/MengNianxiaoyao/gkd-subscription",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "agglayer/agglayer" : {
+    "url" : "https://api.github.com/repos/agglayer/agglayer",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Pokymon/foo.ng" : {
+    "url" : "https://api.github.com/repos/Pokymon/foo.ng",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Arteiii/zenity" : {
+    "url" : "https://api.github.com/repos/Arteiii/zenity",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "alesbrelih/gitlab-ci-ls" : {
+    "url" : "https://api.github.com/repos/alesbrelih/gitlab-ci-ls",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "oslabs-beta/Solibee" : {
+    "url" : "https://api.github.com/repos/oslabs-beta/Solibee",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "JamesAC42/shovel" : {
+    "url" : "https://api.github.com/repos/JamesAC42/shovel",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "YeaHubTeam/yeahub-platform" : {
+    "url" : "https://api.github.com/repos/YeaHubTeam/yeahub-platform",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "nikhilsnayak/nikhilsnayak.dev" : {
+    "url" : "https://api.github.com/repos/nikhilsnayak/nikhilsnayak.dev",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "rojo-rbx/rokit" : {
+    "url" : "https://api.github.com/repos/rojo-rbx/rokit",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "hust-open-atom-club/hust-mirrors" : {
+    "url" : "https://api.github.com/repos/hust-open-atom-club/hust-mirrors",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "FlutterKaigi/2024" : {
+    "url" : "https://api.github.com/repos/FlutterKaigi/2024",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "janhq/docs" : {
+    "url" : "https://api.github.com/repos/janhq/docs",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "fermyon/spin-test" : {
+    "url" : "https://api.github.com/repos/fermyon/spin-test",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "bitcoinlayers/bitcoinlayers" : {
+    "url" : "https://api.github.com/repos/bitcoinlayers/bitcoinlayers",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "NullVoxPopuli/ember-composable-helpers" : {
+    "url" : "https://api.github.com/repos/NullVoxPopuli/ember-composable-helpers",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "heyform/heyform" : {
+    "url" : "https://api.github.com/repos/heyform/heyform",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "hrishioa/lumentis" : {
+    "url" : "https://api.github.com/repos/hrishioa/lumentis",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "bitwarden/authenticator-ios" : {
+    "url" : "https://api.github.com/repos/bitwarden/authenticator-ios",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "lanedirt/OGameX" : {
+    "url" : "https://api.github.com/repos/lanedirt/OGameX",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "RustForWeb/floating-ui" : {
+    "url" : "https://api.github.com/repos/RustForWeb/floating-ui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "AbhiDiva96/75per" : {
+    "url" : "https://api.github.com/repos/AbhiDiva96/75per",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "netlify-templates/next-platform-starter" : {
+    "url" : "https://api.github.com/repos/netlify-templates/next-platform-starter",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "russellxz/CORTANABOT2.0" : {
+    "url" : "https://api.github.com/repos/russellxz/CORTANABOT2.0",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "bitcoinOS/bitcoinOS" : {
+    "url" : "https://api.github.com/repos/bitcoinOS/bitcoinOS",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "LevelUpWeb3/app" : {
+    "url" : "https://api.github.com/repos/LevelUpWeb3/app",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "sora32127/healthy-person-emulator-dotorg" : {
+    "url" : "https://api.github.com/repos/sora32127/healthy-person-emulator-dotorg",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Weminal-labs/sui-simulator-vscode" : {
+    "url" : "https://api.github.com/repos/Weminal-labs/sui-simulator-vscode",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "aeria-org/aeria-lang" : {
+    "url" : "https://api.github.com/repos/aeria-org/aeria-lang",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "st0x0ef/stellaris" : {
+    "url" : "https://api.github.com/repos/st0x0ef/stellaris",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "hydralauncher/hydra" : {
+    "url" : "https://api.github.com/repos/hydralauncher/hydra",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "stackblitz-labs/pkg.pr.new" : {
+    "url" : "https://api.github.com/repos/stackblitz-labs/pkg.pr.new",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "VirtualHotBar/NetMount" : {
+    "url" : "https://api.github.com/repos/VirtualHotBar/NetMount",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "telekom/create-tsi" : {
+    "url" : "https://api.github.com/repos/telekom/create-tsi",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "steveiliop56/getashell" : {
+    "url" : "https://api.github.com/repos/steveiliop56/getashell",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "SWU-Karabast/SWUOnline" : {
+    "url" : "https://api.github.com/repos/SWU-Karabast/SWUOnline",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "cosmic-utils/forecast" : {
+    "url" : "https://api.github.com/repos/cosmic-utils/forecast",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Vavaste/openai-java" : {
+    "url" : "https://api.github.com/repos/Vavaste/openai-java",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "RustForWeb/radix" : {
+    "url" : "https://api.github.com/repos/RustForWeb/radix",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "JoshuaKGoldberg/emoji-platform-data" : {
+    "url" : "https://api.github.com/repos/JoshuaKGoldberg/emoji-platform-data",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "ynqa/jnv" : {
+    "url" : "https://api.github.com/repos/ynqa/jnv",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "cosmic-utils/clipboard-manager" : {
+    "url" : "https://api.github.com/repos/cosmic-utils/clipboard-manager",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "fairmath/openfhe-rs" : {
+    "url" : "https://api.github.com/repos/fairmath/openfhe-rs",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "NJUPT-SAST/aurora-ui" : {
+    "url" : "https://api.github.com/repos/NJUPT-SAST/aurora-ui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "metastable-labs/base-migrate" : {
+    "url" : "https://api.github.com/repos/metastable-labs/base-migrate",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "gaiin-platform/amplify-genai-backend" : {
+    "url" : "https://api.github.com/repos/gaiin-platform/amplify-genai-backend",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Kingjux/Venocyber-md" : {
+    "url" : "https://api.github.com/repos/Kingjux/Venocyber-md",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "AkaneFoundation/AccordLegacy" : {
+    "url" : "https://api.github.com/repos/AkaneFoundation/AccordLegacy",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "lista-dao/lista-token" : {
+    "url" : "https://api.github.com/repos/lista-dao/lista-token",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "roozbehali/ece_webring" : {
+    "url" : "https://api.github.com/repos/roozbehali/ece_webring",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "fedimint/fedimint-clientd" : {
+    "url" : "https://api.github.com/repos/fedimint/fedimint-clientd",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "pradel/stackspulse" : {
+    "url" : "https://api.github.com/repos/pradel/stackspulse",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Taverna-Hub/ForgeSheets" : {
+    "url" : "https://api.github.com/repos/Taverna-Hub/ForgeSheets",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "dzhng/deep-seek" : {
+    "url" : "https://api.github.com/repos/dzhng/deep-seek",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "astrolicious/studiocms" : {
+    "url" : "https://api.github.com/repos/astrolicious/studiocms",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "msveshnikov/allchat" : {
+    "url" : "https://api.github.com/repos/msveshnikov/allchat",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "EveSunMaple/Frosti" : {
+    "url" : "https://api.github.com/repos/EveSunMaple/Frosti",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "ameknite/rust-ci-cd-template" : {
+    "url" : "https://api.github.com/repos/ameknite/rust-ci-cd-template",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "keszybz/add-determinism" : {
+    "url" : "https://api.github.com/repos/keszybz/add-determinism",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "vbresan/HealthyBatteryCharging" : {
+    "url" : "https://api.github.com/repos/vbresan/HealthyBatteryCharging",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "RSSNext/rsshub-docs" : {
+    "url" : "https://api.github.com/repos/RSSNext/rsshub-docs",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "cybercoder-naj/logestic" : {
+    "url" : "https://api.github.com/repos/cybercoder-naj/logestic",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "NovaEngineering-Source/StellarCore" : {
+    "url" : "https://api.github.com/repos/NovaEngineering-Source/StellarCore",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "UnioGame/LeoECS.Lite.Features" : {
+    "url" : "https://api.github.com/repos/UnioGame/LeoECS.Lite.Features",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "NixOS/nixpkgs-vet" : {
+    "url" : "https://api.github.com/repos/NixOS/nixpkgs-vet",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "kunalagra/codegamy" : {
+    "url" : "https://api.github.com/repos/kunalagra/codegamy",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "tempestphp/highlight" : {
+    "url" : "https://api.github.com/repos/tempestphp/highlight",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "OcularEngineering/ocular" : {
+    "url" : "https://api.github.com/repos/OcularEngineering/ocular",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "akexorcist/ruam-mij-android" : {
+    "url" : "https://api.github.com/repos/akexorcist/ruam-mij-android",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "jordond/compass" : {
+    "url" : "https://api.github.com/repos/jordond/compass",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "azmyrajab/polars_ols" : {
+    "url" : "https://api.github.com/repos/azmyrajab/polars_ols",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "open-frames/awesome-open-frames" : {
+    "url" : "https://api.github.com/repos/open-frames/awesome-open-frames",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "pancakeswap/pancake-v4-core" : {
+    "url" : "https://api.github.com/repos/pancakeswap/pancake-v4-core",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "andrerav/regelverk-for-innleie" : {
+    "url" : "https://api.github.com/repos/andrerav/regelverk-for-innleie",
+    "lastCheckedAt" : null,
+    "projectType" : "RUBYGEMS",
+    "lockfileExists" : false
+  },
+  "AndroidPatch/APatchDocs" : {
+    "url" : "https://api.github.com/repos/AndroidPatch/APatchDocs",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Jij-Inc/ommx" : {
+    "url" : "https://api.github.com/repos/Jij-Inc/ommx",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Project-Unifest/unifest-android" : {
+    "url" : "https://api.github.com/repos/Project-Unifest/unifest-android",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "BroMinee/PaladiumClicker" : {
+    "url" : "https://api.github.com/repos/BroMinee/PaladiumClicker",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "tscircuit/tscircuit" : {
+    "url" : "https://api.github.com/repos/tscircuit/tscircuit",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Samue-l1/Classic-v3-BUG" : {
+    "url" : "https://api.github.com/repos/Samue-l1/Classic-v3-BUG",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "6eero/NewPass" : {
+    "url" : "https://api.github.com/repos/6eero/NewPass",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "unsend-dev/unsend" : {
+    "url" : "https://api.github.com/repos/unsend-dev/unsend",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "empirical-run/empirical" : {
+    "url" : "https://api.github.com/repos/empirical-run/empirical",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "elevenlabs/elevenlabs-examples" : {
+    "url" : "https://api.github.com/repos/elevenlabs/elevenlabs-examples",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "HimanshuNarware/CareerZunction_Intern" : {
+    "url" : "https://api.github.com/repos/HimanshuNarware/CareerZunction_Intern",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Boshen/cargo-shear" : {
+    "url" : "https://api.github.com/repos/Boshen/cargo-shear",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "vyuh-tech/vyuh" : {
+    "url" : "https://api.github.com/repos/vyuh-tech/vyuh",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "real-zephex/Dramalama" : {
+    "url" : "https://api.github.com/repos/real-zephex/Dramalama",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Tonny408/Skipper-Md" : {
+    "url" : "https://api.github.com/repos/Tonny408/Skipper-Md",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Trendyol/transmission" : {
+    "url" : "https://api.github.com/repos/Trendyol/transmission",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "PaoloJN/interact-ai-hub" : {
+    "url" : "https://api.github.com/repos/PaoloJN/interact-ai-hub",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "replexica/replexica" : {
+    "url" : "https://api.github.com/repos/replexica/replexica",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "run-llama/create-llama" : {
+    "url" : "https://api.github.com/repos/run-llama/create-llama",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "ngxson/wllama" : {
+    "url" : "https://api.github.com/repos/ngxson/wllama",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "alloy-rs/examples" : {
+    "url" : "https://api.github.com/repos/alloy-rs/examples",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "leptix/leptix" : {
+    "url" : "https://api.github.com/repos/leptix/leptix",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "thefireflytech/filament-blog" : {
+    "url" : "https://api.github.com/repos/thefireflytech/filament-blog",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : true
+  },
+  "Rapptz/jimaku" : {
+    "url" : "https://api.github.com/repos/Rapptz/jimaku",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "madhavdutta/xbeshui" : {
+    "url" : "https://api.github.com/repos/madhavdutta/xbeshui",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "blurite/rsprot" : {
+    "url" : "https://api.github.com/repos/blurite/rsprot",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "hotwired/hotwire-native-android" : {
+    "url" : "https://api.github.com/repos/hotwired/hotwire-native-android",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "RobiMez/sma" : {
+    "url" : "https://api.github.com/repos/RobiMez/sma",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "duplicateduuid/banoffee" : {
+    "url" : "https://api.github.com/repos/duplicateduuid/banoffee",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "pretzelai/pretzelai" : {
+    "url" : "https://api.github.com/repos/pretzelai/pretzelai",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "CodeWithKyrian/transformers-php" : {
+    "url" : "https://api.github.com/repos/CodeWithKyrian/transformers-php",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "mierak/rmpc" : {
+    "url" : "https://api.github.com/repos/mierak/rmpc",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "nickthecook/archyve" : {
+    "url" : "https://api.github.com/repos/nickthecook/archyve",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "singodiyashubham87/Draw-it-out" : {
+    "url" : "https://api.github.com/repos/singodiyashubham87/Draw-it-out",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "liamcottle/meshtastic-map" : {
+    "url" : "https://api.github.com/repos/liamcottle/meshtastic-map",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "factory-js/factory-js" : {
+    "url" : "https://api.github.com/repos/factory-js/factory-js",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "malikpiara/logicola" : {
+    "url" : "https://api.github.com/repos/malikpiara/logicola",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Quran-Summer-of-Code/Learn-Quran-App" : {
+    "url" : "https://api.github.com/repos/Quran-Summer-of-Code/Learn-Quran-App",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "woltsu/tsynamo" : {
+    "url" : "https://api.github.com/repos/woltsu/tsynamo",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "tomsanbear/candle-einops" : {
+    "url" : "https://api.github.com/repos/tomsanbear/candle-einops",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "nervosnetwork/fiber" : {
+    "url" : "https://api.github.com/repos/nervosnetwork/fiber",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "9oormthon-univ/2024_BEOTKKOTTHON_TEAM_4_FE" : {
+    "url" : "https://api.github.com/repos/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_4_FE",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "LivacoNew/CrabFetch" : {
+    "url" : "https://api.github.com/repos/LivacoNew/CrabFetch",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "Wai-Technologies/raaghu-docs" : {
+    "url" : "https://api.github.com/repos/Wai-Technologies/raaghu-docs",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Mintbase/near-ca" : {
+    "url" : "https://api.github.com/repos/Mintbase/near-ca",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "c-frame/aframe-gltf-model-plus" : {
+    "url" : "https://api.github.com/repos/c-frame/aframe-gltf-model-plus",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "promised-ai/rv" : {
+    "url" : "https://api.github.com/repos/promised-ai/rv",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "redotvideo/revideo" : {
+    "url" : "https://api.github.com/repos/redotvideo/revideo",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "e2b-dev/code-interpreter" : {
+    "url" : "https://api.github.com/repos/e2b-dev/code-interpreter",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "svecosystem/runed" : {
+    "url" : "https://api.github.com/repos/svecosystem/runed",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "matthiask/django-prose-editor" : {
+    "url" : "https://api.github.com/repos/matthiask/django-prose-editor",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "first-contributions-ja/first-contributions-ja.github.io" : {
+    "url" : "https://api.github.com/repos/first-contributions-ja/first-contributions-ja.github.io",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "Layr-Labs/eigensdk-rs" : {
+    "url" : "https://api.github.com/repos/Layr-Labs/eigensdk-rs",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "brunofin/cohesion" : {
+    "url" : "https://api.github.com/repos/brunofin/cohesion",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "oslabs-beta/SvelteScope" : {
+    "url" : "https://api.github.com/repos/oslabs-beta/SvelteScope",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "silogy-io/smelt" : {
+    "url" : "https://api.github.com/repos/silogy-io/smelt",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "KasugaLibGroup/KasugaLib" : {
+    "url" : "https://api.github.com/repos/KasugaLibGroup/KasugaLib",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "ourzora/mintpool" : {
+    "url" : "https://api.github.com/repos/ourzora/mintpool",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "danielglejzner/ngx-maintenance" : {
+    "url" : "https://api.github.com/repos/danielglejzner/ngx-maintenance",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "starkware-libs/mempool" : {
+    "url" : "https://api.github.com/repos/starkware-libs/mempool",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "NaverPayDev/device-info" : {
+    "url" : "https://api.github.com/repos/NaverPayDev/device-info",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
   }
 }
