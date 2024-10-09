@@ -9454,5 +9454,11 @@
     "lastCheckedAt" : null,
     "projectType" : "NPM",
     "lockfileExists" : false
+  },
+  "elasticpath/js-sdk" : {
+    "url" : "https://api.github.com/repos/elasticpath/js-sdk",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
   }
 }
