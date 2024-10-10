@@ -9460,5 +9460,71 @@
     "lastCheckedAt" : null,
     "projectType" : "YARN",
     "lockfileExists" : true
+  },
+  "0PandaDEV/Qopy" : {
+    "url" : "https://api.github.com/repos/0PandaDEV/Qopy",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "maximilienGilet/react-hooked" : {
+    "url" : "https://api.github.com/repos/maximilienGilet/react-hooked",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "serping/serp-checker" : {
+    "url" : "https://api.github.com/repos/serping/serp-checker",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "SilkePilon/KnowledgeBook" : {
+    "url" : "https://api.github.com/repos/SilkePilon/KnowledgeBook",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "faissaloux/pest-plugin-math" : {
+    "url" : "https://api.github.com/repos/faissaloux/pest-plugin-math",
+    "lastCheckedAt" : null,
+    "projectType" : "COMPOSER",
+    "lockfileExists" : false
+  },
+  "YerTX2/Hades-BotZx" : {
+    "url" : "https://api.github.com/repos/YerTX2/Hades-BotZx",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "srwi/PyCharm-PixelLens" : {
+    "url" : "https://api.github.com/repos/srwi/PyCharm-PixelLens",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "oslabs-beta/NextLevel" : {
+    "url" : "https://api.github.com/repos/oslabs-beta/NextLevel",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "oslabs-beta/DeClustor" : {
+    "url" : "https://api.github.com/repos/oslabs-beta/DeClustor",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "dessalines/rank-my-favs" : {
+    "url" : "https://api.github.com/repos/dessalines/rank-my-favs",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "Team-Tiki/tiki-client" : {
+    "url" : "https://api.github.com/repos/Team-Tiki/tiki-client",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
   }
 }
