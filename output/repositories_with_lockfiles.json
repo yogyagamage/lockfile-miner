@@ -9526,5 +9526,47 @@
     "lastCheckedAt" : null,
     "projectType" : "NPM",
     "lockfileExists" : false
+  },
+  "stratum-mining/benchmarking-tool" : {
+    "url" : "https://api.github.com/repos/stratum-mining/benchmarking-tool",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : false
+  },
+  "irgaly/compose-vector-plugin" : {
+    "url" : "https://api.github.com/repos/irgaly/compose-vector-plugin",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
+  },
+  "NuschtOS/search" : {
+    "url" : "https://api.github.com/repos/NuschtOS/search",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "Octasol/octasol" : {
+    "url" : "https://api.github.com/repos/Octasol/octasol",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "mykcryptodev/base-token-store" : {
+    "url" : "https://api.github.com/repos/mykcryptodev/base-token-store",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "TsukemonoGit/lumilumi" : {
+    "url" : "https://api.github.com/repos/TsukemonoGit/lumilumi",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : true
+  },
+  "shub39/Grit" : {
+    "url" : "https://api.github.com/repos/shub39/Grit",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
   }
 }
