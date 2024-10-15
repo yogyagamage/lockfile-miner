@@ -9568,5 +9568,41 @@
     "lastCheckedAt" : null,
     "projectType" : "GRADLE",
     "lockfileExists" : false
+  },
+  "dialectlabs/blinks" : {
+    "url" : "https://api.github.com/repos/dialectlabs/blinks",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "tursodatabase/turso-client-php" : {
+    "url" : "https://api.github.com/repos/tursodatabase/turso-client-php",
+    "lastCheckedAt" : null,
+    "projectType" : "CARGO",
+    "lockfileExists" : true
+  },
+  "mybricks/apaas" : {
+    "url" : "https://api.github.com/repos/mybricks/apaas",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "vinibgoulart/wpp-playground" : {
+    "url" : "https://api.github.com/repos/vinibgoulart/wpp-playground",
+    "lastCheckedAt" : null,
+    "projectType" : "YARN",
+    "lockfileExists" : true
+  },
+  "lenML/Speech-AI-Forge" : {
+    "url" : "https://api.github.com/repos/lenML/Speech-AI-Forge",
+    "lastCheckedAt" : null,
+    "projectType" : "NPM",
+    "lockfileExists" : false
+  },
+  "phodal/shire" : {
+    "url" : "https://api.github.com/repos/phodal/shire",
+    "lastCheckedAt" : null,
+    "projectType" : "GRADLE",
+    "lockfileExists" : false
   }
 }
