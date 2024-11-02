@@ -1610,8 +1610,8 @@
   "elysiajs/elysia" : {
     "url" : "https://api.github.com/repos/elysiajs/elysia",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "transitive-bullshit/agentic" : {
     "url" : "https://api.github.com/repos/transitive-bullshit/agentic",
@@ -1898,8 +1898,8 @@
   "midudev/miduconf-website" : {
     "url" : "https://api.github.com/repos/midudev/miduconf-website",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "hashgraph/hedera-json-rpc-relay" : {
     "url" : "https://api.github.com/repos/hashgraph/hedera-json-rpc-relay",
@@ -1946,8 +1946,8 @@
   "themesberg/flowbite-react" : {
     "url" : "https://api.github.com/repos/themesberg/flowbite-react",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "419Labs/starknet-ecosystem.com" : {
     "url" : "https://api.github.com/repos/419Labs/starknet-ecosystem.com",
@@ -2108,8 +2108,8 @@
   "airjp73/rvf" : {
     "url" : "https://api.github.com/repos/airjp73/rvf",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "wevm/wagmi" : {
     "url" : "https://api.github.com/repos/wevm/wagmi",
@@ -2402,8 +2402,8 @@
   "sergiodxa/remix-utils" : {
     "url" : "https://api.github.com/repos/sergiodxa/remix-utils",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "deso-protocol/frontend" : {
     "url" : "https://api.github.com/repos/deso-protocol/frontend",
@@ -2660,8 +2660,8 @@
   "nbd-wtf/nostr-tools" : {
     "url" : "https://api.github.com/repos/nbd-wtf/nostr-tools",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "ansible/vscode-ansible" : {
     "url" : "https://api.github.com/repos/ansible/vscode-ansible",
@@ -2780,8 +2780,8 @@
   "invertase/docs.page" : {
     "url" : "https://api.github.com/repos/invertase/docs.page",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "BuilderIO/mitosis" : {
     "url" : "https://api.github.com/repos/BuilderIO/mitosis",
@@ -3236,8 +3236,8 @@
   "react-hook-form/resolvers" : {
     "url" : "https://api.github.com/repos/react-hook-form/resolvers",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "EddieHubCommunity/EddieBot" : {
     "url" : "https://api.github.com/repos/EddieHubCommunity/EddieBot",
@@ -3416,8 +3416,8 @@
   "geeksblabla/awesome-morocco" : {
     "url" : "https://api.github.com/repos/geeksblabla/awesome-morocco",
     "lastCheckedAt" : null,
-    "projectType" : [ "npm" ],
-    "lockfileExists" : false
+    "projectType" : [ "BUN" ],
+    "lockfileExists" : true
   },
   "yytypescript/book" : {
     "url" : "https://api.github.com/repos/yytypescript/book",
