@@ -5,9 +5,7 @@ import org.kohsuke.github.GHRepository;
 
 import java.nio.file.Path;
 import java.time.Instant;
-import java.util.Date;
-import java.util.Map;
-import java.util.Set;
+import java.util.*;
 
 /**
  * The RepositoryList class represents a collection of data regarding GitHub repositories.
@@ -74,16 +72,6 @@ public class RepositoryList {
         return repos.keySet();
     }
 
-    /**
-     * Set the last time the given repository was checked for breaking updates.
-     *
-     * @param repoName the name of the repository on the form organization/project (e.g. apache/maven).
-     * @param date     the time when the repository was last checked.
-     */
-    public void setCheckedTime(String repoName, Date date, RepositoryFilters.ProjectType projectType, boolean lockfileExists) {
-        RepositoryData oldInfo = repos.get(repoName);
-        repos.put(repoName, new RepositoryData(oldInfo.url, date, projectType, lockfileExists));
-    }
 
     /**
      * @param repoName the name of the repository on the form organization/project (e.g. apache/maven).
@@ -99,7 +87,7 @@ public class RepositoryList {
      * @param repoName the name of the repository on the form organization/project (e.g. apache/maven).
      * @return the projectType.
      */
-    public RepositoryFilters.ProjectType getProjectType(String repoName) {
+    public List<RepositoryFilters.ProjectType> getProjectType(String repoName) {
         return repos.get(repoName).projectType;
     }
 
@@ -121,7 +109,7 @@ public class RepositoryList {
     public void setCheckedTime(String repo, Date from) {
     }
 
-    record RepositoryData(String url, Date lastCheckedAt, RepositoryFilters.ProjectType projectType,
+    record RepositoryData(String url, Date lastCheckedAt, java.util.List<RepositoryFilters.ProjectType> projectType,
                           boolean lockfileExists) {
     }
 }

@@ -11,6 +11,8 @@ import java.io.IOException;
 import java.time.LocalDate;
 import java.time.ZoneId;
 import java.time.temporal.ChronoUnit;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.function.Predicate;
 
@@ -43,83 +45,118 @@ public class RepositoryFilters {
     public static ProjectInfo identifyProjectTypeAndLockfile(GHRepository repository) {
         try {
             List<GHTreeEntry> treeEntries = repository.getTree(repository.getDefaultBranch()).getTree();
+            List<ProjectType> lockfiles = new ArrayList<>();
 
             boolean hasGradle = false, hasNpm = false, hasYarn = false, hasPipEnv = false, hasRubyGems = false,
                     hasHelm = false, hasComposer = false, hasNuGet = false, hasBower = false, hasCargo = false;
             boolean hasGradleLock = false, hasNpmLock = false, hasYarnLock = false, hasPipEnvLock = false,
                     hasRubyGemsLock = false, hasHelmLock = false, hasComposerLock = false, hasNuGetLock = false,
-                    hasBowerLock = false, hasCargoLock = false;
+                    hasBowerLock = false, hasCargoLock = false, hasShrinkwrap = false, hasPnpmLock = false,
+                    hasBunLock = false;
 
             for (GHTreeEntry entry : treeEntries) {
                 String path = entry.getPath();
-                if (path.contains("build.gradle")) {
-                    hasGradle = true;
-                } else if (path.contains("gradle.lockfile")) {
-                    hasGradleLock = true;
-                } else if (path.contains("package.json")) {
-                    // the content of the package.json will be checked again later.
-                    hasNpm = true;
-                    hasYarn = true;
-                } else if (path.contains("package-lock.json")) {
-                    hasYarn = false;
-                    hasNpmLock = true;
-                    System.out.println("npm lock");
-                } else if (path.contains("yarn.lock")) {
-                    hasNpm = false;
-                    hasYarnLock = true;
-                } else if (path.contains("Pipfile")) {
-                    hasPipEnv = true;
-                    System.out.println("pip");
-                } else if (path.contains("Pipfile.lock")) {
-                    hasPipEnvLock = true;
-                } else if (path.contains("Gemfile")) {
-                    hasRubyGems = true;
-                    System.out.println("ruby gem");
-                } else if (path.contains("Gemfile.lock")) {
-                    hasRubyGemsLock = true;
-                } else if (path.contains("Chart.yaml")) {
-                    hasHelm = true;
-                    System.out.println("helm");
-                } else if (path.contains("Chart.lock")) {
-                    hasHelmLock = true;
-                } else if (path.contains("composer.json")) {
-                    hasComposer = true;
-                    System.out.println("composer");
-                } else if (path.contains("composer.lock")) {
-                    hasComposerLock = true;
-                } else if (path.contains("bower.json")) {
-                    hasBower = true;
-                    System.out.println("bower");
-                } else if (path.contains("bower.lock")) {
-                    hasBowerLock = true;
-                } else if (path.contains("Cargo.toml")) {
-                    hasCargo = true;
-                    System.out.println("cargo");
-                } else if (path.contains("Cargo.lock")) {
-                    hasCargoLock = true;
-                } else if (path.contains("packages.config")) {
-                    hasNuGet = true;
-                    System.out.println(".net");
-                } else if (path.contains("packages.lock.json")) {
-                    hasNuGetLock = true;
-                }
+                // if (path.contains("Cargo.toml")) {
+                //     hasCargo = true;
+                // } else if (path.contains("Cargo.lock")) {
+                //     hasCargoLock = true;
+                // }
+//                if (path.contains("build.gradle")) {
+//                    hasGradle = true;
+//                } else if (path.contains("gradle.lockfile")) {
+//                    hasGradleLock = true;
+               if (path.contains("package.json")) {
+                   // the content of the package.json will be checked again later.
+                   hasNpm = true;
+               } else if (path.contains("package-lock.json")) {
+                   hasNpmLock = true;
+                   System.out.println("npm lock");
+               } else if (path.contains("yarn.lock")) {
+                   hasYarnLock = true;
+               } else if (path.contains("npm-shrinkwrap.json")) {
+                   hasShrinkwrap = true;
+               } else if (path.contains("pnpm-lock.yaml")) {
+                   hasPnpmLock = true;
+               } else if (path.contains("bun.lockb")) {
+                   hasBunLock = true;
+               }
+            //    else if (path.contains("Pipfile")) {
+//                    hasPipEnv = true;
+//                    System.out.println("pip");
+//                } else if (path.contains("Pipfile.lock")) {
+//                    hasPipEnvLock = true;
+//                } else if (path.contains("Gemfile")) {
+//                    hasRubyGems = true;
+//                    System.out.println("ruby gem");
+//                } else if (path.contains("Gemfile.lock")) {
+//                    hasRubyGemsLock = true;
+//                } else if (path.contains("Chart.yaml")) {
+//                    hasHelm = true;
+//                    System.out.println("helm");
+//                } else if (path.contains("Chart.lock")) {
+//                    hasHelmLock = true;
+//                } else if (path.contains("composer.json")) {
+//                    hasComposer = true;
+//                    System.out.println("composer");
+//                } else if (path.contains("composer.lock")) {
+//                    hasComposerLock = true;
+//                } else if (path.contains("bower.json")) {
+//                    hasBower = true;
+//                    System.out.println("bower");
+//                } else if (path.contains("bower.lock")) {
+//                    hasBowerLock = true;
+//                } else if (path.contains("Cargo.toml")) {
+//                    hasCargo = true;
+//                    System.out.println("cargo");
+//                } else if (path.contains("Cargo.lock")) {
+//                    hasCargoLock = true;
+//                } else if (path.contains("packages.config")) {
+//                    hasNuGet = true;
+//                    System.out.println(".net");
+//                } else if (path.contains("packages.lock.json")) {
+//                    hasNuGetLock = true;
+//                }
             }
-            if (hasGradle) {
-                System.out.println("gradle");
-                return new ProjectInfo(repository, ProjectType.GRADLE, hasGradleLock);
-            }
+//            if (hasGradle) {
+//                System.out.println("gradle");
+//                return new ProjectInfo(repository, ProjectType.GRADLE, hasGradleLock);
+//            }
             if (hasNpm) {
-                System.out.println("npm");
-                return new ProjectInfo(repository, ProjectType.NPM, hasNpmLock);
+                if (hasShrinkwrap) {
+                    System.out.println("shrinkwrap");
+                    lockfiles.add(ProjectType.NPMSHRINK);
+                }
+                if (hasYarnLock) {
+                    System.out.println("yarn");
+                    lockfiles.add(ProjectType.YARN);
+                }
+                if (hasPnpmLock) {
+                    System.out.println("pnpm");
+                    lockfiles.add(ProjectType.PNPM);
+                }
+                if (hasNpmLock) {
+                    System.out.println("npm");
+                    lockfiles.add(ProjectType.NPM);
+                }
+                if (hasBunLock) {
+                    System.out.println("bun");
+                    lockfiles.add(ProjectType.BUN);
+                }
+                if (lockfiles.isEmpty()) {
+                    System.out.println("empty");
+                    return new ProjectInfo(repository, Collections.singletonList(ProjectType.npm), false);
+                }
+                return new ProjectInfo(repository, lockfiles, true);
             }
-            if (hasYarn) return new ProjectInfo(repository, ProjectType.YARN, hasYarnLock);
-            if (hasPipEnv) return new ProjectInfo(repository, ProjectType.PIP, hasPipEnvLock);
-            if (hasRubyGems) return new ProjectInfo(repository, ProjectType.RUBYGEMS, hasRubyGemsLock);
-            if (hasHelm) return new ProjectInfo(repository, ProjectType.HELM, hasHelmLock);
-            if (hasComposer) return new ProjectInfo(repository, ProjectType.COMPOSER, hasComposerLock);
-            if (hasNuGet) return new ProjectInfo(repository, ProjectType.NUGET, hasNuGetLock);
-            if (hasBower) return new ProjectInfo(repository, ProjectType.BOWER, hasBowerLock);
-            if (hasCargo) return new ProjectInfo(repository, ProjectType.CARGO, hasCargoLock);
+
+
+//            if (hasPipEnv) return new ProjectInfo(repository, ProjectType.PIP, hasPipEnvLock);
+//            if (hasRubyGems) return new ProjectInfo(repository, ProjectType.RUBYGEMS, hasRubyGemsLock);
+//            if (hasHelm) return new ProjectInfo(repository, ProjectType.HELM, hasHelmLock);
+//            if (hasComposer) return new ProjectInfo(repository, ProjectType.COMPOSER, hasComposerLock);
+//            if (hasNuGet) return new ProjectInfo(repository, ProjectType.NUGET, hasNuGetLock);
+//            if (hasBower) return new ProjectInfo(repository, ProjectType.BOWER, hasBowerLock);
+//            if (hasCargo) return new ProjectInfo(repository, ProjectType.CARGO, hasCargoLock);
 
         } catch (IOException e) {
             throw new RuntimeException("Failed to check repository structure", e);
@@ -170,6 +207,6 @@ public class RepositoryFilters {
      * Enum representing different project types based on the build system.
      */
     public enum ProjectType {
-        GRADLE, NPM, YARN, PIP, RUBYGEMS, HELM, COMPOSER, NUGET, BOWER, CARGO
+        GRADLE, NPM, YARN, NPMSHRINK, PNPM, npm, PIP, RUBYGEMS, HELM, COMPOSER, NUGET, BOWER, CARGO, BUN
     }
 }
