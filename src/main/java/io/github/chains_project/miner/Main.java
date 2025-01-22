@@ -127,7 +127,7 @@ public class Main {
                 RepositorySearchConfig searchConfig = RepositorySearchConfig.fromJson(searchConfigFile);
                 var repoList = new RepositoryList(repoFile);
                 new GitHubMiner(apiTokens, outputDirectory).findRepositories(repoList, searchConfig, lastDate);
-            } catch (IOException e) {
+            } catch (IOException | InterruptedException e) {
                 throw new RuntimeException(e);
             }
         }

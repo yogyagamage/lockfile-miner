@@ -20,6 +20,8 @@ import java.util.Date;
 import java.util.List;
 import java.util.concurrent.*;
 
+import static java.lang.Thread.sleep;
+
 /**
  * The GitHubMiner class allows for the mining of GitHub repositories with and without lockfiles.
  */
@@ -28,7 +30,7 @@ public class GitHubMiner {
     /**
      * Default file name for the file containing found repositories"
      */
-    static final String FOUND_REPOS_FILE = "repositories_with_lockfiles.json";
+    static final String FOUND_REPOS_FILE = "jsts_repositories_with_lockfiles.json";
     static final String NOT_FOUND_REPOS_FILE = "repositories_no_lockfiles.json";
     /**
      * The CACHE_DIR where the HTTP caches will be stored is set to the default system
@@ -74,7 +76,7 @@ public class GitHubMiner {
      * @param searchConfig a {@link RepositorySearchConfig} specifying the repositories to look for.
      * @throws IOException if there is an issue when interacting with the file system.
      */
-    public void findRepositories(RepositoryList repoList, RepositorySearchConfig searchConfig, Date lastDate) throws IOException {
+    public void findRepositories(RepositoryList repoList, RepositorySearchConfig searchConfig, Date lastDate) throws IOException, InterruptedException {
         log.info("Finding valid repositories");
         int previousSize = repoList.size();
         LocalDate creationDate = lastDate != null ? lastDate.toInstant().atZone(ZoneId.systemDefault()).toLocalDate() : LocalDate.now(ZoneId.systemDefault());
@@ -113,6 +115,7 @@ public class GitHubMiner {
             creationDate = creationDate.minusDays(1);
             search = searchForRepos(searchConfig.minNumberOfStars, creationDate);
             repoList.writeToFile();
+            sleep(60000);
         }
         log.info("Found {} valid repositories", repoList.size() - previousSize);
     }
@@ -131,6 +134,7 @@ public class GitHubMiner {
                 .created(creationDate.toString())
                 .sort(GHRepositorySearchBuilder.Sort.STARS)
                 .order(GHDirection.DESC)
+                .language("JavaScript")
                 .list();
     }
 
@@ -252,7 +256,7 @@ public class GitHubMiner {
                 System.out.printf("Rate limit exceeded for token %s, sleeping %ds until %s\n",
                         apiToken, timeToSleep / 1000, rateLimitRecord.getResetDate());
                 System.exit(1);
-                Thread.sleep(timeToSleep);
+                sleep(timeToSleep);
                 return true;
             }
             return false;
@@ -277,7 +281,7 @@ public class GitHubMiner {
             System.out.printf("Abuse limit reached for token %s, sleeping %d seconds\n",
                     apiToken, timeToSleepMillis / 1000);
             try {
-                Thread.sleep(timeToSleepMillis);
+                sleep(timeToSleepMillis);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
