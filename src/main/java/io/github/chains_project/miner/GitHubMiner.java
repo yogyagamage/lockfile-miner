@@ -30,7 +30,7 @@ public class GitHubMiner {
     /**
      * Default file name for the file containing found repositories"
      */
-    static final String FOUND_REPOS_FILE = "python_repositories_with_lockfiles.json";
+    static final String FOUND_REPOS_FILE = "rust_repositories_with_lockfiles.json";
     static final String NOT_FOUND_REPOS_FILE = "repositories_no_lockfiles.json";
     /**
      * The CACHE_DIR where the HTTP caches will be stored is set to the default system
@@ -115,7 +115,7 @@ public class GitHubMiner {
             creationDate = creationDate.minusDays(1);
             search = searchForRepos(searchConfig.minNumberOfStars, creationDate);
             repoList.writeToFile();
-            sleep(120000);
+            sleep(60000);
         }
         log.info("Found {} valid repositories", repoList.size() - previousSize);
     }
@@ -130,7 +130,7 @@ public class GitHubMiner {
             throws IOException {
         return tokenQueue.getGitHub(httpConnector).searchRepositories()
                 .fork(GHFork.PARENT_ONLY)
-                .language("Python")
+                .language("Rust")
                 .stars(">=" + minNumberOfStars)
                 .created(creationDate.toString())
                 .sort(GHRepositorySearchBuilder.Sort.STARS)

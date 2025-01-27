@@ -58,32 +58,19 @@ public class RepositoryFilters {
 
             for (GHTreeEntry entry : treeEntries) {
                 String path = entry.getPath();
-                if (path.contains("Pipfile")) {
-                    hasPipEnv = true;
-                    System.out.println("pip");
-                } else if (path.contains("pyproject.toml")) {
-                    hasPoetry = true;
-                    System.out.println("poetry");
-                } else if (path.contains("poetry.lock")) {
-                    hasPoetryLock = true;
-                } else if (path.contains("Pipfile.lock")) {
-                    hasPipEnvLock = true;
+                if (path.contains("Cargo.toml")) {
+                    hasCargo = true;
+                    System.out.println("cargo");
+                } else if (path.contains("Cargo.lock")) {
+                    hasCargoLock = true;
                 }
             }
-            if (hasPoetry) {
-                if (hasPoetryLock) {
-                    System.out.println("poetry");
-                    lockfiles.add(ProjectType.POETRY);
+            if (hasCargo) {
+                if (hasCargoLock) {
+                    System.out.println("cargo");
+                    lockfiles.add(ProjectType.CARGO);
                 } else {
-                    projectTypes.add(ProjectType.POETRY);
-                }
-            }
-            if (hasPipEnv) {
-                if (hasPipEnvLock) {
-                    System.out.println("pip");
-                    lockfiles.add(ProjectType.PIP);
-                } else {
-                    projectTypes.add(ProjectType.PIP);
+                    projectTypes.add(ProjectType.CARGO);
                 }
             }
             if (lockfiles.isEmpty() && !projectTypes.isEmpty()) {
