@@ -58,19 +58,19 @@ public class RepositoryFilters {
 
             for (GHTreeEntry entry : treeEntries) {
                 String path = entry.getPath();
-                if (path.contains("Cargo.toml")) {
-                    hasCargo = true;
-                    System.out.println("cargo");
-                } else if (path.contains("Cargo.lock")) {
-                    hasCargoLock = true;
+                if (path.contains("build.gradle") || path.contains("build.gradle.kts") || path.contains("settings.gradle")) {
+                    hasGradle = true;
+                    System.out.println("gradle");
+                } else if (path.contains("gradle.lockfile")) {
+                    hasGradleLock = true;
                 }
             }
-            if (hasCargo) {
-                if (hasCargoLock) {
-                    System.out.println("cargo");
-                    lockfiles.add(ProjectType.CARGO);
+            if (hasGradle) {
+                if (hasGradleLock) {
+                    System.out.println("gradle lock");
+                    lockfiles.add(ProjectType.GRADLE);
                 } else {
-                    projectTypes.add(ProjectType.CARGO);
+                    projectTypes.add(ProjectType.GRADLE);
                 }
             }
             if (lockfiles.isEmpty() && !projectTypes.isEmpty()) {
