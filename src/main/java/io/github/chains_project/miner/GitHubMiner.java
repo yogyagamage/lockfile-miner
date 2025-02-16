@@ -30,7 +30,7 @@ public class GitHubMiner {
     /**
      * Default file name for the file containing found repositories"
      */
-    static final String FOUND_REPOS_FILE = "python_repositories_with_lockfiles.json";
+    static final String FOUND_REPOS_FILE = "go_repositories_with_lockfiles.json";
     static final String NOT_FOUND_REPOS_FILE = "repositories_no_lockfiles.json";
     /**
      * The CACHE_DIR where the HTTP caches will be stored is set to the default system

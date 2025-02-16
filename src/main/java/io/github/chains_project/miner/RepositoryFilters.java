@@ -48,46 +48,33 @@ public class RepositoryFilters {
             List<ProjectType> lockfiles = new ArrayList<>();
             List<ProjectType> projectTypes = new ArrayList<>();
 
-            boolean hasGradle = false, hasNpm = false, hasYarn = false, hasPipEnv = false, hasRubyGems = false,
+            boolean hasGo = false, hasGradle = false, hasNpm = false, hasYarn = false, hasPipEnv = false, hasRubyGems = false,
                     hasHelm = false, hasComposer = false, hasNuGet = false, hasBower = false, hasCargo = false,
-                    hasPoetry = false;
-            boolean hasGradleLock = false, hasNpmLock = false, hasYarnLock = false, hasPipEnvLock = false,
+                    hasPoetry = false, hasGo = false;
+            boolean hasGoSum = false, hasGradleLock = false, hasNpmLock = false, hasYarnLock = false, hasPipEnvLock = false,
                     hasRubyGemsLock = false, hasHelmLock = false, hasComposerLock = false, hasNuGetLock = false,
                     hasBowerLock = false, hasCargoLock = false, hasShrinkwrap = false, hasPnpmLock = false,
                     hasBunLock = false, hasPoetryLock = false;
 
             for (GHTreeEntry entry : treeEntries) {
                 String path = entry.getPath();
-                if (path.contains("Pipfile")) {
-                    hasPipEnv = true;
-                    System.out.println("pip");
-                } else if (path.contains("pyproject.toml")) {
-                    hasPoetry = true;
-                    System.out.println("poetry");
-                } else if (path.contains("poetry.lock")) {
-                    hasPoetryLock = true;
-                } else if (path.contains("Pipfile.lock")) {
-                    hasPipEnvLock = true;
+                if (path.contains("go.mod")) {
+                    hasGo = true;
+                    System.out.println("go");
+                } else if (path.contains("go.sum")) {
+                    hasGoSum = true;
+                    System.out.println("go sum");
                 }
+                
             }
-            if (hasPoetry) {
-                if (hasPoetryLock) {
-                    System.out.println("poetry");
-                    lockfiles.add(ProjectType.POETRY);
+            if (hasGo) {
+                if (hasGoSum) {
+                    lockfiles.add(ProjectType.GO);
                 } else {
-                    projectTypes.add(ProjectType.POETRY);
-                }
-            }
-            if (hasPipEnv) {
-                if (hasPipEnvLock) {
-                    System.out.println("pip");
-                    lockfiles.add(ProjectType.PIP);
-                } else {
-                    projectTypes.add(ProjectType.PIP);
+                    projectTypes.add(ProjectType.GO);
                 }
             }
             if (lockfiles.isEmpty() && !projectTypes.isEmpty()) {
-                System.out.println("empty");
                 return new ProjectInfo(repository, projectTypes, false);
             }
             if (!lockfiles.isEmpty()) {
@@ -142,6 +129,6 @@ public class RepositoryFilters {
      * Enum representing different project types based on the build system.
      */
     public enum ProjectType {
-        GRADLE, NPM, YARN, NPMSHRINK, PNPM, npm, PIP, RUBYGEMS, HELM, COMPOSER, NUGET, BOWER, CARGO, BUN, POETRY
+        GRADLE, NPM, YARN, NPMSHRINK, PNPM, npm, PIP, RUBYGEMS, HELM, COMPOSER, NUGET, BOWER, CARGO, BUN, POETRY, GO
     }
 }
